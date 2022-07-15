@@ -1,2 +1,2 @@
-# coheskat
+# coheskats
 Laravel School Management System
