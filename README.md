@@ -1,2 +1,2 @@
 # coheskat
-Coheskat portal
+Laravel School Management System
